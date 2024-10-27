@@ -1,7 +1,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpkNHdyZTI0cDRhY3RtMW02dXp0dXh2eTJ3enh4d2dwODJ6eTRqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" />
 
-#<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+#<img src="https://giphy.com/gifs/shrempin-shrimp-shremp-shremps-JnWj533oZwgz678jUt" width="30px">&nbsp;***About me***
 
 I am a beginner programmer who is starting out in this world. I am currently studying in secondary school.
 * **I am interested in Web designing and software development**
