@@ -1,4 +1,9 @@
-## Hi there 👋
+# 💫 About Me:
+I am a beginner programmer who is starting out in this world. 👨‍💻<br>🌐 <br>📘 I am currently studying in secondary school.
+
+# 💻 My skills:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white). ![PYTHON(https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
+
 
 <!--
 **juanbasanchez/juanbasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
