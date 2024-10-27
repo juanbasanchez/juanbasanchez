@@ -1,14 +1,13 @@
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=790b7611q2g71pqrqbwf4zml7f16fgb8qr1pwfp859ve0ln5&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpkNHdyZTI0cDRhY3RtMW02dXp0dXh2eTJ3enh4d2dwODJ6eTRqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" />
 
 #<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a beginner programmer who is starting out in this world. I am currently studying in secondary school.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in Web designing and software development**
 - 🌱 I’m currently learning ...
   - CSS
   - HTML
-- 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🎵 listen to music and create media content 📹
 
